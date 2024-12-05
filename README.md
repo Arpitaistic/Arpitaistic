@@ -3,8 +3,8 @@
 <!--
 - 🚀 BTech CSE Student | Content Writer | Aspiring Developer
 - 🌱 Learning: Full-stack development, Python, and DSA
-- 💡 Passionate about creating impactful projects and content
-
+- 💡 Passionate about creating impactful projects and content.
+-->
 ### 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -17,6 +17,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
 
 ### 🚀 Featured Projects
-- [Smart Campus Platform](https://arpitaistic.github.io/ideathon-SmartCampusPlatform/) - A smart and safe campus platform.
-
--->
+- [Smart Campus Platform](https://arpitaistic.github.io/ideathon-SmartCampusPlatform/) - A smart and safe campus platform
